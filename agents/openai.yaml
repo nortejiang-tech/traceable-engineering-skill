@@ -1,0 +1,7 @@
+interface:
+  display_name: "可追溯工程方法论"
+  short_description: "用 ADR、阶段任务书、证据验收与交接文档稳健推进复杂项目"
+  default_prompt: "使用 $traceable-engineering 为这个复杂项目建立分阶段开发计划、Coder 提示词和证据化验收流程。"
+
+policy:
+  allow_implicit_invocation: false
